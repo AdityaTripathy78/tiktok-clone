@@ -1,15 +1,15 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCMh678yYIU2sOODl6AXXVJr_27jvDLnpk",
-  authDomain: "tik-tok-clone-eb635.firebaseapp.com",
-  databaseURL: "https://tik-tok-clone-eb635.firebaseio.com",
-  projectId: "tik-tok-clone-eb635",
-  storageBucket: "tik-tok-clone-eb635.appspot.com",
-  messagingSenderId: "602358408631",
-  appId: "1:602358408631:web:a32f1830ccc2d942f2f432",
-  measurementId: "G-38YHL3X30F",
+  apiKey: "AIzaSyCReKWu24zMQycRQBjppli9gx6gYrevNmo",
+  authDomain: "mern-tiktok-clone-17afa.firebaseapp.com",
+  databaseURL: "https://mern-tiktok-clone-17afa.firebaseapp.com/",
+  projectId: "mern-tiktok-clone-17afa",
+  storageBucket: "mern-tiktok-clone-17afa.appspot.com",
+  messagingSenderId: "25050827602",
+  appId: "1:25050827602:web:a13b98e5b6cd607f2cc88b"
 };
+
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
 
